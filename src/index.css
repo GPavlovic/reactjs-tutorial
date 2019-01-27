@@ -33,6 +33,32 @@ ul {
     width: 34px;
 }
 
+.xLabels {
+    background: #fff;
+    float: left;
+    font-size: 12px;
+    line-height: 12px;
+    height: 12px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 34px;
+}
+
+.yLabels {
+    background: #fff;
+    float: left;
+    font-size: 12px;
+    line-height: 34px;
+    height: 34px;
+    margin-right: 2px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: right;
+    width: 34px;
+}
+
 .square:focus {
     outline: none;
 }
